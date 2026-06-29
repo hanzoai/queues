@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="queues" width="880"></p>
+
 # Hanzo Queues
 
 High-throughput distributed work queues for reliable, scalable job processing.
